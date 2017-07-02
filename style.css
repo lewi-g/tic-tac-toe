@@ -2,22 +2,26 @@ h1 {
   color: #0000ff;
 }
 .row {
-  height: 150px;
-  border: #000000 solid 1px;
+  height: 100px;
+  width: 300px;
 }
+
+#one, #two {
+  border-bottom: 4px solid black;
+}
+
+.box2, .box5, .box8 {
+  border-right: 4px solid black;
+  border-left: 4px solid black;
+}
+
 .boxes {
   display: inline-block;
   height: 100px;
   width: 100px;
-  border: 1px solid #000fff;
+  margin: 0 -3px 0 -3px;
 }
 
 img {
   display: none;
 }
-.container {
- height: 800px;
- width: 600px;
- position: relative;
-}
-
