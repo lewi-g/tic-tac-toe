@@ -1,3 +1,22 @@
 h1 {
   color: #0000ff;
 }
+.row {
+  height: 150px;
+   border: #000000 solid 1px;
+}
+.boxes {
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  border: 1px solid #000fff;
+}
+
+img {
+  display: none;
+}
+.container {
+ height: 800px;
+ width: 600px;
+ position: relative;
+}
