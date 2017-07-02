@@ -3,7 +3,7 @@ h1 {
 }
 .row {
   height: 150px;
-   border: #000000 solid 1px;
+  border: #000000 solid 1px;
 }
 .boxes {
   display: inline-block;
@@ -20,3 +20,4 @@ img {
  width: 600px;
  position: relative;
 }
+
