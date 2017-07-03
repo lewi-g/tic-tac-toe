@@ -10,17 +10,18 @@ h1 {
   border-bottom: 4px solid black;
 }
 
-.box2, .box5, .box8 {
-  border-right: 4px solid black;
-  border-left: 4px solid black;
-}
-
-.boxes {
+.box {
   display: inline-block;
   height: 100px;
   width: 100px;
   margin: 0 -3px 0 -3px;
 }
+
+#box2, #box5, #box8 {
+  border-right: 4px solid black;
+  border-left: 4px solid blacpwdk;
+}
+
 
 img {
   display: none;
